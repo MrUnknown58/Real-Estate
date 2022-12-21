@@ -1,0 +1,29 @@
+.hero{
+    background-image: url("https://media.istockphoto.com/id/1179975188/photo/miniature-house-on-a-financial-graph.jpg?s=612x612&w=0&k=20&c=2lg-kfD8tLG4bXtB6XXIneqNs5o7LsuxvKtWUbGUorM=");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+    width: 100%;
+  }
+  .box{
+    border-radius: 6px;
+    box-shadow: 0 0 20px 0 rgb(112 121 138 / 18%);
+    cursor: pointer;
+    padding: 30px;
+    text-align: center;
+  }
+  .shadow{
+    box-shadow: 0 0 20px 0 rgb(112 121 138 / 18%);
+  }
+  .text{
+    padding: 30px;
+  }
+  .recent .button{
+    border-top: 1px solid #e4e8f3;
+    padding: 10px 30px;
+  }
+  .h4{
+    font-weight: 500;
+    margin-top: 10px;
+  }
